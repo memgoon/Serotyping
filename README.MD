@@ -35,5 +35,5 @@ To run the notebook, you need the following dependencies:
 This work is part of the research: *"Development of E. coli O-serotyping classification model based on Protein LLM"* (Under revision for **Scientific Reports**).
 
 ## 👤 Author
-- **Heesoo Jeong** (Seoul National University)
+- **Heesu Jeong** (Seoul National University)
 - Email: hs0517@snu.ac.kr
