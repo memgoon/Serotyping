@@ -11,15 +11,17 @@ Traditional serotyping methods are often labor-intensive and costly. This projec
 - **Model Benchmarking**: Comparative analysis of multiple ML classifiers:
   - Random Forest
   - XGBoost
-  - Extra Trees Classifier
   - Support Vector Machine (SVM)
+  - MLP
+  - KNN
+  - GNB
 - **Performance Evaluation**: Comprehensive metrics including Accuracy, F1-score, and Confusion Matrix visualization.
 
 ## 📁 Repository Structure
 - `Serotyping_ML.ipynb`: The primary Jupyter Notebook containing the end-to-end workflow (Data preprocessing -> Training -> Evaluation).
 
 ## 📊 Performance Summary
-- Ensemble methods, particularly **Extra Trees** and **Random Forest**, demonstrated high precision and recall across various O-serotypes.
+- **Random Forest**, demonstrated high precision and recall across various O-serotypes.
 - The results suggest that ESM-2 embeddings effectively capture the biological signatures required to distinguish between complex E. coli serotypes.
 
 ## ⚙️ Requirements
@@ -32,7 +34,7 @@ To run the notebook, you need the following dependencies:
 - Matplotlib & Seaborn
 
 ## 📝 Citation & Reference
-This work is part of the research: *"Development of E. coli O-serotyping classification model based on Protein LLM"* (Under revision for **Scientific Reports**).
+This work is part of the research: *"Data-driven Classification of Escherichia coli using Protein Large Language Model Ascertains O-Serotype Determining Genes"* (Under revision for **Scientific Reports**).
 
 ## 👤 Author
 - **Heesu Jeong** (Seoul National University)
