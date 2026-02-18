@@ -34,7 +34,7 @@ To run the notebook, you need the following dependencies:
 - Matplotlib & Seaborn
 
 ## 📝 Citation & Reference
-This work is part of the research: *"Data-driven Classification of Escherichia coli using Protein Large Language Model Ascertains O-Serotype Determining Genes"* (Under revision for **Scientific Reports**).
+This work is part of the research: *"Data-driven Classification of Escherichia coli using Protein Large Language Model Ascertains O-Serotype Determining Genes"* (Accepted in **Scientific Reports**).
 
 ## 👤 Author
 - **Heesu Jeong** (Seoul National University)
